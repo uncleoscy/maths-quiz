@@ -1,0 +1,3 @@
+-- Copy into a website/code engine for code to work
+-- Make sure the engine is python
+-- Thanks for using maths quiz!
